@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=100&section=header&text=alice%20AI%20backend%20developer&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=venom&color=black&height=100&section=header&text=alice%20AI%20backend%20developer&fontSize=40&animation=twinkling)
 
 
 
