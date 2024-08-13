@@ -10,7 +10,8 @@
 
 
 ## 📚 Studying  ##
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwangjiyoung02)](https://solved.ac/hwangjiyoung02)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwangjiyoung02)](https://solved.ac/hwangjiyoung02/)
+
 
 ## ✨ My Tech Stack  ##
 
