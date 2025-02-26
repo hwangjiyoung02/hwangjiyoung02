@@ -21,6 +21,10 @@
     </a>
 </div>
 
+## 📚 Baekjoon  
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eramthgin_my)](https://solved.ac/eramthgin_my)
+
+
 ---
 ## 🔨 My Tech Stack  ##
 
