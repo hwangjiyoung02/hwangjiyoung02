@@ -5,6 +5,9 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=100&section=header&text=Alice%20backend%20developer&fontSize=40&animation=twinkling)
 
 ---
+# 👩‍💻Introduce
+<b> 백엔드 개발자 황지영입니다.</b>
+
 ## 🏠 Home  
 
 <div align="center">
@@ -21,45 +24,70 @@
     </a>
 </div>
 
-## 📚 Baekjoon  
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eramthgin_my)](https://solved.ac/eramthgin_my)
+
+
 
 
 ---
-## 🔨 My Tech Stack  ##
+## 🔨 My Tech Stack ##
+
+### 📦 Backend
+<div align="center">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Springboot&logoColor=white"/>
+
+</div>
+
+### 💽 Database
+<div align="center">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+</div>
+
+### 🌐 Cloud & Containerization
+<div align="center">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+</div>
 
 
-#### Backend
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/> <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=Springboot&logoColor=white">
-  
+### 🎨 Frontend
+<div align="center">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+</div>
 
-#### Frontend
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+#### 🤖 AI
+<div align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google%20Colab&logoColor=white"/>
+</div>
 
-
-#### Deploy
-
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
-
-#### AI
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
-
-#### Language
-  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
 ---
 
-## 🌱 Education & Experiences
-
+## 🌱 Education
 - **Gachon University**  
   - Software *(2022.03 ~)*  
 
+- **NAVER CLOUD BOOTCAMP**
+  - Backend Developer & Project Manager  *(2024.04 ~ 2024.10)*
+
+## 🌟 Experiences
+
+- **Leets**  
+  - Backend Developer  *(2025.03 ~ )*
+ 
+- **9oormthon-univ**  
+  - Backend Developer *(2025.03 ~ )*
+  - 
 - **GDG on Campus Gachon**  
   - Backend Developer *(2024.09 ~)*
   - Ai Developer *(2023.09 ~ 2024.05)*  
-
-- **Scale Makers**  
-  - Backend Developer & Project Manager  *(2025.01 ~)*
 
 #### 📜 Certifications
 - **정보처리기사**
