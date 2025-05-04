@@ -89,7 +89,8 @@
   - Backend Developer *(2024.09 ~)*
   - Ai Developer *(2023.09 ~ 2024.05)*  
 
-#### 📜 Certifications
-- **정보처리기사**
-- **SQLD (SQL Developer)**  
+## 📜 Certifications
+
+- 정보처리기사
+- SQLD (SQL Developer)
 
